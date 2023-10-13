@@ -2,6 +2,8 @@
 Kubernetes learning project
 
 Goal: from local development on sample app to k8s powered
+Sample app: Real-time project of blogging platform [ https://github.com/shekhargulati/conduit-on-kubernetes ]
+Article: [ https://medium.com/xebia-engineering/the-kubernetes-guide-for-java-developers-learn-kubernetes-by-deploying-a-real-world-application-35133f72d2e5 ]
 
 # What is Kubernetes
 K8s is a platform for **managing application containers across multiple hosts**. It abstracts away the underlying hardware infrastructure and acts as a **distributed operating system for your cluster**.
