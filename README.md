@@ -26,6 +26,7 @@ Also is as a platform for building other higher level platforms like OpenShift.
 - comes with some security features: Namespaces, RBAC that applications can use transparently
 
 **Why the need**
+
 **1. Makes it easy to manage complex, evolving, and scalable architecture in an automated manner**
 
 Once you start deploying multiple applications (e.g. Microservices) and need a consistent way for discovery, recovery, deployment, autoscaling, security, etc. for your applications — you need a container orchestration layer to manage them.
