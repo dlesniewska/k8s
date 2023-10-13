@@ -25,7 +25,7 @@ Also is as a platform for building other higher level platforms like OpenShift.
 - provides common abstractions like Services, Ingress, auto scaling, rolling deployment , volume management
 - comes with some security features: Namespaces, RBAC that applications can use transparently
 
-**Why the need**
+# Why the need
 
 **1. Makes it easy to manage complex, evolving, and scalable architecture in an automated manner**
 
